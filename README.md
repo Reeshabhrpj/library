@@ -13,4 +13,4 @@ Features :
 7.Publisher management
 8.Book Inventory
 9.Delete Users (Only for the Admin)
-10.Add / Delete Article (For Admin )
+10.Book Issue/Return (For Admin )
